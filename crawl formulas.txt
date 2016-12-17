@@ -1,0 +1,10 @@
+Crawl formulas:
+
+block: https://crawl.develz.org/learndb/#shield_formulas
+weapon hit
+weapon dmg: http://crawl.chaosforge.org/Weapon_damage
+dodge
+armour: https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:mutation:stats&#effect_of_strength_on_armour_evp
+missile
+spell success: http://crawl.chaosforge.org/Spell_Success
+MR+

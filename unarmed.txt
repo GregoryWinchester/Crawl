@@ -1,0 +1,4 @@
+# unarmed
+
+class stats(self):
+	
